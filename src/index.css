@@ -1,0 +1,16 @@
+.role{
+   background-color: thistle;
+}
+.bottom-section{
+   display: flex;
+   width: 100%;
+   margin-top: auto;
+   padding: 10px;
+   justify-content: center;
+   align-items: center;
+   border: 1px solid grey;
+   position: fixed;
+}
+.input-container{
+   display: flex;
+}
